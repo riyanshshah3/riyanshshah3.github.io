@@ -17,7 +17,7 @@ body {
 
 .hero {
   background: linear-gradient(to bottom right, #0d1b2a, #1b263b);
-  color: #aab;
+  color: #fff;
   padding: 120px 0;
   text-align: center;
   background-image: url('images/hero.jpg');
