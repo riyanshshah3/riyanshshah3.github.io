@@ -42,7 +42,7 @@ header .cta {
   cursor: pointer;
   transition: background .18s, box-shadow .18s, transform .2s;
   font-weight: bold;
-  box-shadow: 0 3px 12px rgba(174,195,176,0.12);
+  box-shadow: 0 3px 12px rgba(0,0,0,0);
 }
 header .cta:hover { background: #e3ece3; }
 
@@ -109,7 +109,7 @@ ul { margin-top: 0; }
 
 .references {
   font-size: .97em;
-  color: #474747;
+  color: #0000FF;
   line-height: 1.4;
 }
 
