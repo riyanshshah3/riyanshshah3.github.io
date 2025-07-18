@@ -11,7 +11,7 @@ body {
   margin: 0;
   font-family: 'Roboto', Arial, sans-serif;
   background: var(--bg);
-  color: #0000FF;
+  color: #FFFFFF;
   line-height: 1.7;
   scroll-behavior: smooth;
 }
@@ -97,19 +97,19 @@ ul { margin-top: 0; }
 }
 .img-row img {
   border-radius: 13px;
-  box-shadow: 0 2px 16px rgba(18,69,89,0.10);
+  box-shadow: 0 2px 16px rgba(0,0,0,0);
   width: 210px; max-width: 92vw;
   background: #e3e3e3;
   transition: box-shadow .18s, transform .16s;
 }
 .img-row img:hover {
-  box-shadow: 0 7px 32px rgba(90,131,146,0.13);
+  box-shadow: 0 7px 32px rgba(0,0,0,0);
   transform: scale(1.04);
 }
 
 .references {
   font-size: .97em;
-  color: #0000FF;
+  color: #FFFFFF;
   line-height: 1.4;
 }
 
