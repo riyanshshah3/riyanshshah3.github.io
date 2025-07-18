@@ -4,7 +4,7 @@
   --accent: #aec3b0;
   --bg: #f7f7f7;
   --white: #fff;
-  --card-shadow: 0 4px 32px rgba(90,131,146,0.11);
+  --card-shadow: 0 4px 32px rgba(255, 0, 0, 1));
 }
 
 body {
@@ -42,7 +42,7 @@ header .cta {
   cursor: pointer;
   transition: background .18s, box-shadow .18s, transform .2s;
   font-weight: bold;
-  box-shadow: 0 3px 12px rgba(0,0,0,0);
+  box-shadow: 0 3px 12px rgba(255, 0, 0, 1));
 }
 header .cta:hover { background: #e3ece3; }
 
@@ -57,7 +57,7 @@ section {
   transition: box-shadow .18s;
 }
 section:hover {
-  box-shadow: 0 6px 36px rgba(18,69,89,0.13);
+  box-shadow: 0 6px 36px rgba(255, 0, 0, 1);
 }
 
 h2 {
@@ -79,12 +79,12 @@ ul { margin-top: 0; }
   min-width: 150px;
   text-align: center;
   padding: 17px 10px;
-  box-shadow: 0 3px 16px rgba(90,131,146,0.07);
+  box-shadow: 0 3px 16px rgba(255, 0, 0, 1);
   transition: box-shadow .18s, transform .16s;
   font-weight: 500;
 }
 .team-card:hover {
-  box-shadow: 0 6px 24px rgba(90,131,146,0.17);
+  box-shadow: 0 6px 24px rgba(255, 0, 0, 1);
   transform: translateY(-4px) scale(1.03);
 }
 
@@ -97,13 +97,13 @@ ul { margin-top: 0; }
 }
 .img-row img {
   border-radius: 13px;
-  box-shadow: 0 2px 16px rgba(0,0,0,0);
+  box-shadow: 0 2px 16px rgba(255, 0, 0, 1);
   width: 210px; max-width: 92vw;
   background: #e3e3e3;
   transition: box-shadow .18s, transform .16s;
 }
 .img-row img:hover {
-  box-shadow: 0 7px 32px rgba(0,0,0,0);
+  box-shadow: 0 7px 32px rgba(255, 0, 0, 1);
   transform: scale(1.04);
 }
 
