@@ -11,7 +11,7 @@ body {
   margin: 0;
   font-family: 'Roboto', Arial, sans-serif;
   background: var(--bg);
-  color: #212529;
+  color: #0000FF;
   line-height: 1.7;
   scroll-behavior: smooth;
 }
